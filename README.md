@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaryan1122
+- 👋 Hi, I’m Aaryan Punjabi
 - 👀 I’m interested in Web and App Development 
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on Projects 
