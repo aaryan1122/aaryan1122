@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aaryan Punjabi
-- 👀 I’m interested in Web and App Development 
-- 🌱 I’m currently learning Web Development 
+- 👀 I’m interested in Business Analytics and Web Development 
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 Reach me through my mail :- aaryanpunjabi2002@gmail.com
 
